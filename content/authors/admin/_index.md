@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-tagline: 我们终此一生，就是要摆脱他人的期待，找到真正的自己。
+Role: 我们终此一生，就是要摆脱他人的期待，找到真正的自己。
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -40,9 +40,9 @@ profiles:
   #  - icon: brands/linkedin
   #    url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  #  - icon: academicons/cv
-  #    url: uploads/resume.pdf
-  #    label: Download my resume
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: Download my resume
   - icon: rss
     url: ./post/index.xml
     label: Subscribe to my blog via RSS feed
