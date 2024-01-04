@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-Role: 我们终此一生，就是要摆脱他人的期待，找到真正的自己。
+Role: Freelance Developer
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -25,7 +25,7 @@ Role: 我们终此一生，就是要摆脱他人的期待，找到真正的自�
 #    url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 起心动念皆是因，当下所受皆是果
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,6 +54,4 @@ highlight_name: true
 website: ""
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+本人本科和硕士都毕业于华东理工大学，专业计算机科学与技术。
